@@ -1,207 +1,94 @@
-# 👋 Hi, I'm Suhel Ali
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7EEEC&width=500&lines=Suhel+Ali%2C+Full-Stack+Developer;Suhel+Ali%2C+Next.js+%7C+React+%7C+Node.js;Suhel+Ali%2C+Building+Real-World+Applications" alt="Typing SVG" />
 
-<div align="center">
-
-# Suhel Ali
-
-### Software Developer Intern | Full-Stack Web Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Real-World+Applications;Passionate+About+Technology" alt="Typing SVG" />
-
-📍 Gorakhpur, Uttar Pradesh, India
-
-<a href="https://github.com/suhel6388">
-  <img src="https://img.shields.io/badge/GitHub-suhel6388-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/suhel6388">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:suhelali72786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://discord.gg/flashxsuhel">
-  <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" />
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a BCA student and Full-Stack Web Developer passionate about building scalable, user-friendly applications and solving real-world problems through technology.
-
-Currently working as a **Software Developer Intern at Welldone Healthcare Private Limited**, where I develop healthcare application interfaces and integrate APIs.
-
-- 💻 Experienced in React.js, Next.js, Node.js and Express.js.
-- 🤖 Working with AI-driven medicine dosage suggestions and ML integrations.
-- 🏥 Developing healthcare management solutions.
-- 📊 Built an Institute Management System that improved fee collection efficiency by 40%.
-- 🚀 Building multi-tenant SaaS applications and business management tools.
-- 🎓 Pursuing Bachelor of Computer Applications (BCA).
-- 📜 DCFA Certified.
-
----
-
-## 💼 Work Experience
-
-### Software Developer Intern
-**Welldone Healthcare Private Limited**
-
-📅 June 2026 – Present
-
-- Developing UI components and integrating REST APIs for a healthcare management application.
-- Implemented prescription integration with AI-driven medicine dosage and frequency suggestions, contributing to a 30% improvement in doctor OPD efficiency.
-- Worked on ML confidence score functionality to improve suggestion reliability through usage.
-- Designed and integrated a patient vaccination chart module to help doctors track vaccination doses.
-- Working with modern frontend and backend technologies in a production-oriented environment.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<p>
+  <strong>Software Developer Intern / Full-Stack Developer.</strong> Building, learning, and shipping real-world applications.
 </p>
 
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+<p>
+  <a href="https://suhel-portfolio-dam.vercel.app">
+    <img align="absmiddle" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
+  </a>
+  <a href="https://linkedin.com/in/suhel6388">
+    <img align="absmiddle" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/suhel6388">
+    <img align="absmiddle" alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="mailto:suhelali72786@gmail.com">
+    <img align="absmiddle" alt="Email" src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://discord.gg/flashxsuhel">
+    <img align="absmiddle" alt="Discord" src="https://img.shields.io/badge/Discord-161B22?style=flat&logo=discord&logoColor=5865F2" />
+  </a>
+  <img align="absmiddle" alt="Profile Views" src="https://komarev.com/ghpvc/?username=suhel6388&label=Profile%20Views&color=161B22&labelColor=161B22&style=flat" />
 </p>
 
-**Additional:** shadcn/ui, Ant Design
+<img align="right" width="220" src="https://github.com/suhel6388.png" alt="Suhel Ali GitHub Avatar" />
 
-### Backend Development
+Full-stack web applications and the APIs behind them, mostly with **React, Next.js, TypeScript, Node.js and PostgreSQL**.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+▸ Currently working as a **Software Developer Intern at Welldone Healthcare** · Building healthcare UI, REST API integrations and AI-powered prescription features.
+
+▸ Built **DarkGoldGym CRM** · Multi-tenant gym management SaaS with AI Business Copilot, subscriptions, payments and role-based access control.
+
+▸ Built **Institute Management System** · Student management, fee collection, installments, expenses and analytics dashboard, improving fee collection efficiency by 40%.
+
+▸ Built **PassportSnap** · Browser-based passport photo editor with cropping, DPI configuration, background removal and file-size control.
+
+▸ Currently exploring backend architecture, AI integrations and scalable SaaS development.
+
+<br clear="right" />
+
+<p>
+  <strong>Tech Stack</strong>
+  &nbsp;
+  <img align="absmiddle" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img align="absmiddle" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
+  <img align="absmiddle" alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
+  <img align="absmiddle" alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
+  <img align="absmiddle" alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="Vite" src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF" />
+  <img align="absmiddle" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img align="absmiddle" alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-161B22?style=flat&logo=shadcnui&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-161B22?style=flat&logo=antdesign&logoColor=0170FE" />
+  <img align="absmiddle" alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img align="absmiddle" alt="Express.js" src="https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="tRPC" src="https://img.shields.io/badge/tRPC-161B22?style=flat&logo=trpc&logoColor=2596BE" />
+  <img align="absmiddle" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248" />
+  <img align="absmiddle" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img align="absmiddle" alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3ECF8E" />
+  <img align="absmiddle" alt="AWS" src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img align="absmiddle" alt="Prisma" src="https://img.shields.io/badge/Prisma-161B22?style=flat&logo=prisma&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="Mongoose" src="https://img.shields.io/badge/Mongoose-161B22?style=flat&logo=mongoose&logoColor=880000" />
+  <img align="absmiddle" alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
+  <img align="absmiddle" alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" />
+  <img align="absmiddle" alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" />
+  <img align="absmiddle" alt="Vercel" src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
+  <img align="absmiddle" alt="Better Auth" src="https://img.shields.io/badge/Better_Auth-161B22?style=flat&logo=auth0&logoColor=FFFFFF" />
 </p>
 
-**Additional:** Prisma ORM, Mongoose ORM, tRPC
-
-### Database & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql,aws" />
+<p>
+  <strong>Experience & Education</strong>
+  <br/>
+  Software Developer Intern @ Welldone Healthcare · June 2026 – Present
+  <br/>
+  BCA · Maharaja Agrasen Himalayan Garhwal University (In Progress)
+  <br/>
+  DCFA · Diploma in Computerized Financial Accounting (Completed)
 </p>
 
-### Tools & Services
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,docker" />
+<p>
+  <strong>Find Me On</strong>
+  &nbsp;
+  <a href="https://linkedin.com/in/suhel6388">
+    <img align="absmiddle" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://discord.gg/flashxsuhel">
+    <img align="absmiddle" alt="Discord" src="https://img.shields.io/badge/Discord-161B22?style=flat&logo=discord&logoColor=5865F2" />
+  </a>
+  <a href="mailto:suhelali72786@gmail.com">
+    <img align="absmiddle" alt="Email-Contact" src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=EA4335" />
+  </a>
 </p>
 
-**Additional:** Better Auth, Mux, CI/CD
-
----
-
-## 🚀 Featured Projects
-
-### 1. DarkGoldGym CRM — Gym Management SaaS
-
-**Tech Stack:** Next.js, React.js, Node.js, Express.js, Prisma, PostgreSQL, Better Auth
-
-- Built a multi-tenant SaaS platform for gym owners to manage members, payments, subscriptions and business performance.
-- Developed an AI Gym Business Copilot that answers natural-language questions using real-time CRM data.
-- Implemented secure email/password and Google OAuth authentication.
-- Developed role-based access control for Super Admin, Gym Owner, Admin and Staff.
-- Architected gym-level data isolation using `gymId`.
-- Built subscription management with free trials and expiry tracking.
-- Created a Super Admin dashboard with gym management, customer enquiries and WhatsApp integration.
-
-### 2. Institute Management System
-
-**Tech Stack:** React.js, Supabase, Tailwind CSS, Recharts
-
-- Developed a full-stack application for student registration, fee collection, installments and expenses.
-- Created an analytics dashboard with bar, pie and donut charts.
-- Improved fee collection efficiency by 40%.
-- Implemented role-based authentication and protected routes.
-- Developed fee receipt generation with print-to-PDF support.
-- Built a due-installments tracker with search, filters and pagination.
-
-### 3. PassportSnap — Passport Photo Editor
-
-**Tech Stack:** React.js, Canvas API
-
-- Built a standalone React application for passport-size photo creation.
-- Implemented image cropping and DPI configuration.
-- Added background removal and file-size control.
-- Used browser Canvas APIs for image processing.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Maharaja Agrasen Himalayan Garhwal University (MAHGU)  
-Status: In Progress
-
-**Diploma in Computerized Financial Accounting (DCFA)**  
-Status: Completed
-
----
-
-## 📜 Certifications
-
-- DCFA — Diploma in Computerized Financial Accounting
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/suhel6388">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/suhel6388">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:suhelali72786@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://discord.gg/flashxsuhel">
-<img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhel6388&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=suhel6388&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhel6388&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/suhel6388/suhel6388/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Thanks for visiting my profile!
-
-**Building today. Innovating tomorrow. 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=suhel6388&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
