@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a BCA student and Full-Stack Web Developer passionate about building scalable, user-friendly applications and solving real-world problems through technology.
+I'm a Full-Stack Web Developer passionate about building scalable, user-friendly applications and solving real-world problems through technology.
 
 Currently working as a **Software Developer Intern at Welldone Healthcare Private Limited**, where I develop healthcare application interfaces and integrate APIs.
 
